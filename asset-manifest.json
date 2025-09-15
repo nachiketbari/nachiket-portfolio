@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.79cdde58.css",
+    "main.js": "/static/js/main.22d130d5.js",
+    "static/js/453.36fcba2c.chunk.js": "/static/js/453.36fcba2c.chunk.js",
+    "static/media/nachiket.png": "/static/media/nachiket.4df30cadffe2b0704331.png",
+    "static/media/school-website.png": "/static/media/school-website.1f4ec247d837290dc14c.png",
+    "static/media/flight-app.jpg": "/static/media/flight-app.cbeb86b51842441c9fd8.jpg",
+    "static/media/portfolio.png": "/static/media/portfolio.f4117c12049992935aee.png",
+    "static/media/dairy-ecommerce.png": "/static/media/dairy-ecommerce.75a72fdc11320488a8c8.png",
+    "static/media/Nachiket-cv.pdf": "/static/media/Nachiket-cv.aa21fed6140f9cce124d.pdf",
+    "static/media/gamestop.jpg": "/static/media/gamestop.ee98bcb081b6300523d5.jpg",
+    "index.html": "/index.html",
+    "main.79cdde58.css.map": "/static/css/main.79cdde58.css.map",
+    "main.22d130d5.js.map": "/static/js/main.22d130d5.js.map",
+    "453.36fcba2c.chunk.js.map": "/static/js/453.36fcba2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79cdde58.css",
+    "static/js/main.22d130d5.js"
+  ]
+}
